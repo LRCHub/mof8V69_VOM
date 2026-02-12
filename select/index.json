@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "2 FACE",
+  "base_artist": "TOC",
+  "createdAt": "2026-02-12T12:24:43.114797Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "2.02 Killer Year",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_2.02_Killer_Year_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Her And I (Slow Jam 2)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Her_And_I_(Slow_Jam_2)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Satanic Slumber Party Part 2 (Midnight In Sodom)",
+      "artist": "Tropical Fuck Storm feat. King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Satanic_Slumber_Party_Part_2_(Midnight_In_Sodom)_Tropical_Fuck_Storm_feat._King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Venusian 2",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/04_Venusian_2_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Venusian 2",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Venusian_2_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Venusian 2 - Live in Milan ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Venusian_2_-_Live_in_Milan_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Venusian 2 (Live in Milan '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/07_Venusian_2_(Live_in_Milan_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1, 2 Many (The Writer's Cut)",
+      "artist": "Luke Combs",
+      "has_synced": false,
+      "path": "select/08_1,_2_Many_(The_Writer's_Cut)_Luke_Combs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1, 2, 3 Mississippi",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/09_1,_2,_3_Mississippi_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do You Know You Are My Sunshine? (From \"Smokey And The Bandit 2\" Soundtrack)",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/10_Do_You_Know_You_Are_My_Sunshine__(From__Smokey_And_The_Bandit_2__Soundtrack)_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If That Ain't Country- Part 2",
+      "artist": "David Allan Coe",
+      "has_synced": false,
+      "path": "select/11_If_That_Ain't_Country-_Part_2_David_Allan_Coe.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If That Ain't Country (Part 2)",
+      "artist": "David Allan Coe",
+      "has_synced": false,
+      "path": "select/12_If_That_Ain't_Country_(Part_2)_David_Allan_Coe.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let's Just Be Friends (From The Angry Birds Movie 2)",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/13_Let's_Just_Be_Friends_(From_The_Angry_Birds_Movie_2)_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stays In Mexico - Greatest Hits 2 Version",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/14_Stays_In_Mexico_-_Greatest_Hits_2_Version_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stays In Mexico (Greatest Hits 2 Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/15_Stays_In_Mexico_(Greatest_Hits_2_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wabash Cannonball (Version 2)",
+      "artist": "Roy Acuff",
+      "has_synced": false,
+      "path": "select/16_Wabash_Cannonball_(Version_2)_Roy_Acuff.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Another Brick In The Wall (Part 2) - Live",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/17_Another_Brick_In_The_Wall_(Part_2)_-_Live_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Another Brick In the Wall, Pt. 2",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/18_Another_Brick_In_the_Wall,_Pt._2_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "1,2, Ultraviolento",
+      "artist": "Los Violadores",
+      "has_synced": true,
+      "path": "select/19_1,2,_Ultraviolento_Los_Violadores.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2 FACE",
+      "artist": "TOC",
+      "has_synced": false,
+      "path": "select/pl_01_2_FACE_TOC.txt"
+    }
+  ]
+}
